@@ -237,6 +237,6 @@ We hope this guide provides you with the necessary information to create, get, a
 <br> <br>
 
 <footer>
-  <a class="prev-page" href="../../api-documentation/index.md">Previous <br>
+  <a class="prev-page" href="index.md">Previous <br>
   Go back to the API Documentation Index &larr;</a>
 </footer>

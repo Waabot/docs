@@ -139,8 +139,8 @@ Note: The provided code snippets are examples and may need to be modified to fit
 <br> <br>
 
 <footer>
-  <a class="prev-page" href="/installation.md">&larr; Previous <br>
+  <a class="prev-page" href="installation.md">&larr; Previous <br>
   Installation</a>
-   <a class="next-page" href="/chatbot.md">&rarr; Next <br>
+   <a class="next-page" href="chatbot.md">&rarr; Next <br>
   ChatBot</a>
 </footer>

@@ -1,0 +1,31 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #0c0707;
+}
+
+a.prev-page,
+a.next-page {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #333;
+}
+
+a.prev-page {
+  border: 1px solid #333;
+}
+
+a.next-page {
+  border: 1px solid #555;
+}
+
+a.prev-page:hover,
+a.next-page:hover {
+  background-color: #333;
+  color: #fff;
+}

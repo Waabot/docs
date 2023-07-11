@@ -58,8 +58,6 @@ Note: Make sure to refer to the [Authentication Page](authentication.md) to lear
 
 ---
 
-<br>
-
 By following these steps, you can create a new WhatsApp instance, initialize it, and obtain the QR code for authentication. This will enable you to connect with WhatsApp and start interacting with it using the WAABOT-SDK.
 
 <br><br>

@@ -2,7 +2,6 @@
 <link rel="stylesheet" href="../style.css">
 </head>
 
-
 # Chatbot Interaction for WAABOT-SDK
 
 To interact with the ChatBot functionality of the WAABOT-SDK, use the `intent` property from the instantiated `waabot` class. Here are some examples of available methods:
@@ -15,10 +14,10 @@ To add a new keyword and its corresponding auto reply, use the following code:
 const intent = waabot.intent;
 
 const createdAutoReply = intent.add({
-    title: "test auto reply title",
-    keyword: "this keyword",
-    reply: "Response",
-    action: {}
+  title: "test auto reply title",
+  keyword: "this keyword",
+  reply: "Response",
+  action: {},
 });
 ```
 
@@ -43,7 +42,9 @@ The WAABOT-SDK provides methods to interact with various settings. Here are some
 To set the default reply message, use the following code:
 
 ```javascript
-const response = await waabot.settings.setDefaultReply({ default_msg: "{Hi|Hello} [name] I can't find a reply for your message." });
+const response = await waabot.settings.setDefaultReply({
+  default_msg: "{Hi|Hello} [name] I can't find a reply for your message.",
+});
 ```
 
 ### Turning Off Group Replies
@@ -75,7 +76,9 @@ const response = await waabot.settings.turnOnGroupReplies();
 To listen to message events, use the following code.
 
 ```javascript
-const response = await waabot.settings.setWebhookUrl("https://webhook.site/ca0fa48b-aa9f-4614-8e11-fd916b4a8fad");
+const response = await waabot.settings.setWebhookUrl(
+  "https://webhook.site/ca0fa48b-aa9f-4614-8e11-fd916b4a8fad"
+);
 ```
 
 ## Action Types
@@ -127,11 +130,9 @@ action: {
 
 These examples demonstrate how to interact with the ChatBot and various settings using the WAABOT-SDK. Please note that the provided code snippets are examples and may require modifications based on your specific implementation and requirements.
 
-
 <br> <br>
 
 <footer>
-  <a class="prev-page" href="installation.md">&larr; Previous <br>
+  <a class="prev-page" href="installation.html">&larr; Previous <br>
   Installation</a>
 </footer>
-

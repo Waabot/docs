@@ -26,6 +26,6 @@ If you encounter any issues during the registration process or require further a
 <br> <br>
 
 <footer>
-  <a class="next-page" href="index.md">Next <br>
+  <a class="next-page" href="index.html">Next <br>
   Getting Started&rarr;</a>
 </footer>

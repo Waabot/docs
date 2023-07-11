@@ -4,16 +4,7 @@
 
 # WAABOT-SDK Message Templates
 
-
-
-
-
-
-
-
-
-
 <footer>
-  <a class="next-page" href="error-handling.md">Next <br>
+  <a class="next-page" href="error-handling.html">Next <br>
   Error Handling &rarr;</a>
 </footer>

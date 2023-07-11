@@ -4,18 +4,9 @@
 
 # Troubleshooting for WAABOT-SDK
 
-
-
-
-
-
-
-
-
-
 <footer>
-  <a class="prev-page" href="faq.md">&larr; Previous <br>
+  <a class="prev-page" href="faq.html">&larr; Previous <br>
   FAQ</a>
-  <a class="next-page" href="support-channels.md">Next <br>
+  <a class="next-page" href="support-channels.html">Next <br>
   Support Channels &rarr;</a>
 </footer>

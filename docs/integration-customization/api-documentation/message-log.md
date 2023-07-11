@@ -217,6 +217,6 @@ We hope this guide provides you with the necessary information to get all messag
 <br> <br>
 
 <footer>
-  <a class="prev-page" href="index.md">Previous <br>
+  <a class="prev-page" href="index.html">Previous <br>
   Go back to the API Documentation Index &larr;</a>
 </footer>

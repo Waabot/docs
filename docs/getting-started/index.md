@@ -25,7 +25,7 @@ To get started with the SDK, follow these steps to create your credentials:
 1. Go to [waabot.com](https://waabot.com/) using your preferred web browser and create an account.
 2. Use the credentials obtained during the account creation process to create a session.
 
-For more information on authentication and setting up your WhatsApp Business Account, refer to the [Authentication Guide](authentication.md).
+For more information on authentication and setting up your WAABOT Account, refer to the [Authentication Guide](authentication.md).
 
 ---
 

@@ -6,7 +6,7 @@
 
 Here are the authentication settings and the key functionalities for interacting with the WhatsApp API for WAABOT-SDK:
 
-First, ensure that you've created and verified an account on [waabot.com](https://waabot.com). The detailed steps are on the [Prerequisites Page](introduction/prerequisites.md). If you encounter any issues during the registration process or require further assistance, please reach out to our support team at [support@waabot.com](mailto:support@waabot.com) for prompt assistance.
+First, ensure that you've created an account on [waabot.com](https://waabot.com). The detailed steps are on the [Prerequisites Page](prerequisites.md). If you encounter any issues during the registration process or require further assistance, please reach out to our support team at [support@waabot.com](mailto:support@waabot.com) for prompt assistance.
 
 ## Create Credentials
 

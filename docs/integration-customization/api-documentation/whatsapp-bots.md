@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="../../style.css">
 </head>
 
-# Whatsapp/Bots
+# WAABOT-SDK APIs: Whatsapp/Bots
 
 The "Whatsapp/Bots" endpoints in our API allow developers to integrate and interact with WhatsApp for building powerful chatbot experiences. With these endpoints, you can leverage the capabilities of WhatsApp to automate conversations, provide information, and engage with users.
 

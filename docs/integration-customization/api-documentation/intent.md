@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="../../style.css">
 </head>
 
-# Intent (Chatbot Replies)
+# WAABOT-SDK APIs: Intent (Chatbot Replies)
 
 The "Intent (Chatbot Replies)" API endpoints enable you to define user intents and map them to appropriate responses in your chatbot. By associating intents with relevant replies, you can create dynamic and contextually aware conversations.
 

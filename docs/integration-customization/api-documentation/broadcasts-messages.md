@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="../../style.css">
 </head>
 
-# Broadcasts/Messages
+# WAABOT-SDK APIs: Broadcasts/Messages
 
 ---
 

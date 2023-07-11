@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="../../style.css">
 </head>
 
-# Contact and Contact Groups
+# WAABOT-SDK APIs: Contact and Contact Groups
 
 ## Contacts
 

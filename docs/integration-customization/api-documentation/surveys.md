@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="../../style.css">
 </head>
 
-# Surveys
+# WAABOT-SDK APIs: Surveys
 
 The Surveys endpoints provide a comprehensive set of tools for creating and managing surveys within your application. With these endpoints, you can design interactive surveys, collect valuable feedback from your users, and gain insights to enhance your product or service.
 

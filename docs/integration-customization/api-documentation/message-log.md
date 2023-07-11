@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="../../style.css">
 </head>
 
-# Message Log
+# WAABOT-SDK APIs: Message Log
 
 **AUTHORIZATION** Bearer Token
 

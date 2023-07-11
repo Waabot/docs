@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="../../style.css">
 </head>
 
-# Authentication
+# WAABOT-SDK APIs: Authentication
 
 The Authentication endpoints allow you to securely authenticate requests to the API and access protected resources. This section provides details about the authentication methods supported by our API.
 

@@ -63,6 +63,6 @@ By following these steps, you can create a new WhatsApp instance, initialize it,
 <br><br>
 
 <footer>
-  <a class="next-page" href="authentication.md">Next <br>
+  <a class="next-page" href="authentication.html">Next <br>
   Authentication &rarr;</a>
 </footer>

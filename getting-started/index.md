@@ -2,6 +2,10 @@
 
 Welcome to the "Getting Started" guide for WAABOT-SDK. This guide will help you get up and running with the bot quickly.
 
+## Prerequisities
+
+Ensure to check out the [Prerequisities guide](prerequisities.md). Before proceeding with the next steps.
+
 ## Installation
 
 To install WAABOT-SDK, follow these steps:

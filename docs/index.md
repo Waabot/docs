@@ -1,7 +1,3 @@
----
-layout: navigation.html
----
-
 # WAABOT-SDK Documentation
 
 Welcome to the documentation for WAABOT-SDK, a powerful tool that allows you to integrate with the WAABOT platform and interact with WhatsApp. This documentation provides a comprehensive guide on how to create credentials, create a session, initialize the WhatsApp client, configure the WhatsApp instance, and send various types of messages.
@@ -49,6 +45,3 @@ For more information and resources related to the WAABOT-SDK, refer to the [Addi
 Thank you for using WAABOT-SDK! If you have any feedback or suggestions, feel free to contribute and make the documentation better.
 
 ---
-
-</body>
-</html>

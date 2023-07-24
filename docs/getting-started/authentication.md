@@ -2,6 +2,8 @@
 <link rel="stylesheet" href="../style.css">
 </head>
 
+<div id="navigation-panel"></div>
+
 # Authentication for WAABOT-SDK
 
 Here are the authentication settings and the key functionalities for interacting with the WhatsApp API for WAABOT-SDK:
@@ -144,3 +146,5 @@ Note: The provided code snippets are examples and may need to be modified to fit
    <a class="next-page" href="chatbot.html">&rarr; Next <br>
   ChatBot</a>
 </footer>
+
+  <script src="navigation.js"></script>

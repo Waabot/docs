@@ -1,7 +1,7 @@
 <head>
 <link rel="stylesheet" href="../style.css">
 </head>
-
+<body>
 <div id="navigation-panel"></div>
 
 # Authentication for WAABOT-SDK
@@ -148,3 +148,4 @@ Note: The provided code snippets are examples and may need to be modified to fit
 </footer>
 
   <script src="navigation.js"></script>
+</body>

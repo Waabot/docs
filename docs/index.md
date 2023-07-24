@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
 <head>
-  <title>WAABOT-SDK DOCS</title>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>

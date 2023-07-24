@@ -1,7 +1,3 @@
-<head>
-<meta name="google-site-verification" content="TtClHmaJhOc4iz4nWKYhAh5KpEUBDLFTMqjq5EqaZ_g" />
-</head>
-
 # WAABOT-SDK Documentation
 
 Welcome to the documentation for WAABOT-SDK, a powerful tool that allows you to integrate with the WAABOT platform and interact with WhatsApp. This documentation provides a comprehensive guide on how to create credentials, create a session, initialize the WhatsApp client, configure the WhatsApp instance, and send various types of messages.

@@ -1,8 +1,6 @@
 <head>
 <link rel="stylesheet" href="../style.css">
 </head>
-<body>
-<div id="navigation-panel"></div>
 
 # Authentication for WAABOT-SDK
 
@@ -146,6 +144,3 @@ Note: The provided code snippets are examples and may need to be modified to fit
    <a class="next-page" href="chatbot.html">&rarr; Next <br>
   ChatBot</a>
 </footer>
-
-  <script src="navigation.js"></script>
-</body>
